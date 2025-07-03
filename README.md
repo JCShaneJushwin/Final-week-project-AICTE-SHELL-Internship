@@ -1,4 +1,5 @@
 MY APPROACH:
+
 Data Collection: Open-source GHG datasets containing industrial, transport, and energy consumption data
 
 Preprocessing: Null value handling, normalization, feature selection
